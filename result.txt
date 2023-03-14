@@ -1,0 +1,964 @@
+Presenter: Serhii Korobchenko
+
+Personal Web Assistant 
+
+Introduction
+
+Project purpose:
+
+Building a Personal Assistant with Python and Flask Framework
+
+Brief project overview:
+
+A
+
+ personal assistant that helps users manage their contacts, notes, and files, and stay updated with the latest news
+
+Features
+
+List of key features:
+
+Add, change, delete contacts with phone numbers and email addresses
+
+Search for contacts by name or keyword
+
+Add notes with titles, text, and tags
+
+Search for notes by tag or keyword
+
+Manage files, including pictures and videos
+
+Get the latest news from BBC world
+
+Screenshots of the web-based CLI to illustrate the features
+
+All available commands
+
+Architecture overview
+
+Code elements examples
+
+Flask app configuration
+
+SQLAlchemy
+
+ database models 
+
+Password hashing and verification
+
+etc
+
+…
+
+User interface: 
+
+Adding a new contact with "add John 555-1234-333" 
+
+User interface: 
+
+Searching for contacts with "lookup john"
+
+User interface: 
+
+Adding John birthday
+
+User interface: 
+
+Searching for notes with "
+
+findbytag
+
+"
+
+User interface: 
+
+Uploading files
+
+User interface: 
+
+Scrapping
+
+Project Statistics
+
+Challenges and future work
+
+Discussion of some of the challenges encountered during the project, e.g.:
+
+Web scraping of BBC news was prone to errors and required regular updates to the code
+
+Some features, such as file management and interactive media, could benefit from a more graphical user interface
+
+Ideas for future work and improvements, e.g.:
+
+Adding support for voice commands using speech recognition
+
+Implementing a natural language processing engine to enable more conversational interactions
+
+Integrating with more APIs and services, such as Google Maps or Spotify
+
+Thank you for attention!
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327)
+
+PLENARY MEETING, 27 JANUARY 2022
+
+UKRAINE-NATO UNCLASSIFIED
+
+Part I:
+
+Ukrainian activity & information exchange on LCM:
+
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327) - PLENARY MEETING, 27 JANUARY 2022
+
+1
+
+UKRAINE-NATO UNCLASSIFIED
+
+Ukrainian LCMS model
+
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327) - PLENARY MEETING, 27 JANUARY 2022
+
+2
+
+UKRAINE-NATO UNCLASSIFIED
+
+LCM Objects
+
+Ukrainian Defence Industry, 
+
+other business entities 
+
+(including foreign)
+
+Subjects of the LCM 
+
+System responsible for operating weapons, military and special equipment
+
+Armed Forces of Ukraine;
+
+ 
+
+Ministry of Internal Affairs;
+
+National Guard; State Border Guard Service;
+
+Security Service
+
+Ministry of Strategic Industries of Ukraine
+
+- SUBJECT of LCM; 
+
+forms
+
+ a unified 
+
+military-industrial policy
+
+Ministry of Defence 
+
+of Ukraine
+
+- SUBJECT of LCM; 
+
+forms
+
+ a unified 
+
+military-technical policy
+
+Ministry of Defence;
+
+Ministry of Internal Affairs;
+
+National Guard;
+
+State Border Guard Service;
+
+Security Service
+
+State customers 
+
+of the defense order
+
+Executors of the State Defense Order
+
+Operating Units
+
+Unified Information Environment
+
+National & Military Standards
+
+Ukrainian Laws
+
+Subjects of LCM, 
+
+which implement a unified 
+
+military-technical policy
+
+Subjects of LCM, 
+
+which implement a unified 
+
+military-industrial policy
+
+Progress of Defense Products LCM System creation
+
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327) - PLENARY MEETING, 27 JANUARY 2022
+
+3
+
+UKRAINE-NATO UNCLASSIFIED
+
+Implemen-tation NATO SLCM Doc. Framework
+
+Reach full opera-tional capability
+
+                   
+
+► 
+
+Training UKR personnel at NATO LCM Courses
+
+                   ► 
+
+Using the defense products LC information support software
+
+Cooperation with the LCMG (MG & WGs) and NIAG & NIIG, 
+
+participation in SLCM workshops, NATO and National experts assistance
+
+Acquisition  
+
+PLM & CALS technologies
+
+Define 
+
+end-state 
+
+UKR LCM model
+
+Translate and study 
+
+of SLCM Doc. Framework
+
+Approval of
+
+UKR LCMS Concept & 
+
+LCMS Roadmap
+
+Accessing to participate 
+
+ 
+
+in LCMG 
+
+(MG & WGs)
+
+Adaptation 
+
+AAP-20, AAP-48, ALP-10 and other 
+
+SLCM standards 
+
+Establishment 
+
+of Def. Stan. Body including SLCM Stan.
+
+(DSCC
+
+ 
+
+&
+
+ 
+
+TC176 "AME Stan. ")
+
+Implementation of NATO SLCM Strategy & Police
+
+Distribution of LCMS subject's powers in Reg. Framework
+
+Signing bilateral agreements
+
+ 
+
+Concept of Creating the AME LCMS
+
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327) - PLENARY MEETING, 27 JANUARY 2022
+
+5
+
+UKRAINE-NATO UNCLASSIFIED
+
+Implementation of the Concept will contribute to:
+
+ensuring compatibility with NATO's lifecycle policy and standards;
+
+creating the preconditions for the implementation of effective life cycle management
+
+ 
+
+coherence of actions of all subjects of management;
+
+making optimal technical decisions;
+
+minimizing the costs of the state budget;
+
+reducing the time and risk of creation and adoption of weapons and military equipment, increasing the service life and stability of logistics support at this stage, as well as at the stage of decommissioning and disposal;
+
+improving the efficiency of the national defence-industrial complex during the full life cycle;
+
+improving the efficiency of budget resources, creating mechanisms for mutually beneficial relations between market-oriented integrated structures of the defen
+
+с
+
+e industry;
+
+reduction of corruption risks and unfair relations;
+
+providing favorable conditions for attracting investment;
+
+implementation of effective quality management systems (according to NATO standards), their certification by accredited conformity assessment bodies;
+
+training a "critical mass" of highly qualified personnel and effective top managers in the defence sphere.
+
+Aim (main points): 
+
+development of the LCM system according to NATO principles and standards,
+
+development of:  legal framework; system of basic standards; mechanism for mutually agreed and coordinated activities;
+
+Identification of responsibilities of all actors in the LSM system
+
+Terms:
+
+short-term: until 2023;
+
+medium-term: until 2025;
+
+long-term: until 2035.
+
+National Defense Products LCMS Document Framework
+
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327) - PLENARY MEETING, 27 JANUARY 2022
+
+4
+
+UKRAINE-NATO UNCLASSIFIED
+
+Main provisions
+
+0
+
+     
+
+Scientific Research
+
+  
+
+Works & Avanprojects
+
+1
+
+   
+
+Research and Development Work
+
+2
+
+     
+
+Maintenance & Repair
+
+7
+
+       
+
+Other LCM  
+
+ 
+
+standards
+
+9
+
+Decommissioning & Retirement
+
+8
+
+7+1/
+
+4
+
+/
+
+3
+
+7/
+
+3
+
+/
+
+4
+
+3/
+
+2
+
+/
+
+1
+
+10+5/
+
+7
+
+/
+
+1
+
++1/
+
+0
+
+/
+
+1
+
+4+2/
+
+4
+
+/
+
+1
+
+2+2/
+
+0
+
+/
+
+2
+
+ 
+
+Repair
+
+6
+
+2/
+
+1
+
+/
+
+1
+
+3/
+
+3
+
+/
+
+0
+
+ 
+
+2/
+
+1
+
+/
+
+1
+
+ 
+
+DSTU V
+
+ 8821-1:2018
+
+ Standardization in the area of аrmament
+
+ 
+
+and military equipment
+
+. 
+
+Part 1. Basic terms and definitions
+
+Concept
+
+Development
+
+Production
+
+Utilisation
+
+Retirement
+
+Support
+
+Pre-Concept
+
+15.001:2018
+
+ SDLM AME. Basic provisions
+
+15.002:2021
+
+ Program (project) management plan. Unified exclusive plan.
+
+15.003:2021
+
+ Life cycle processes of armament and military equipment.
+
+15.004:2019
+
+ Life cycle stages of armament and military equipment.
+
+15.005:2019
+
+ Integrated logistic support on life cycle stages of armament and military equipment. 
+
+15.101:2020
+
+ Request for proposals for research work. 
+
+15.102:2021
+
+ Tactical and technical (technical) task for an execution of advance project  (part of advance project). Main requirements for construction, content, design, statements, publication, editing, procedure of agreement and approval.
+
+15.103:2021 
+
+Implementation rules of the avanprojeckt and components parts of the avanprojeckts. 
+
+15.105:202X
+
+ Implementation of research works and their components. 
+
+15.108:202X
+
+ Regulations on the development and supply of materials for armament and military equipment.
+
+15.110:202X
+
+ Reporting (post-action) documentation and scientific-technical documentation on research works, avanprojects, research and development works.
+
+15.111:2019
+
+ Standardization and commonality of armament and military equipment. Rules of work
+
+15.201:2019
+
+ Tactical and technical (technical) task for an execution of research and development work. Main requirements for construction, content, design, statements, publication and editing.
+
+15.203:20
+
+2
+
+X
+
+ 
+
+Implementation of research and development work on the creation of products and their components. Main provisions.
+
+15.206:20
+
+2
+
+X
+
+ Reliability programs. General requirements.
+
+15.209:2020 
+
+Rules for acceptance and testing of  serial products of armament and military equipment.
+
+15.210:202X
+
+  Testing of armament and military equipment. Substantive provisions. Classification
+
+15.211:202X
+
+ Procedures for developing prototype product testing programmes and methods.
+
+15.213:2019
+
+ Guidelines for designing.
+
+15.301:2021
+
+ Launching into manufacture of armament and military equipment. Rules of work
+
+15.306:2021
+
+ 
+
+Warranty commitments. 
+
+ 
+
+15.307:202X 
+
+Regulation on acceptance and testing of production armament and military equipment
+
+.
+
+15.401:202X
+
+ Supply
+
+. 
+
+Main provisions
+
+ 
+
+15.501:2021
+
+ Exploitation and repair documents for armament and military equipment. Main requirements for nomenclature, construction, content, statements, publication and editing.
+
+15.801:2021
+
+ End of production
+
+of armament and military equipment.
+
+15.802:2021
+
+ End of production
+
+of materials for armament and military equipment. Rules of work
+
+15.803;2021
+
+ 
+
+Obsolescence management 
+
+and retirement of AME
+
+15.701:2019
+
+ Bulletins of changes and works connected with them. 
+
+15.70
+
+2
+
+:2019
+
+ Determination and extension of the validity period of assigned indicators.
+
+15.703:2021
+
+ 
+
+Reclamation work.
+
+15.704:202X
+
+ Logistical support for the use (operation) of armament and military equipment.
+
+15.705:2020
+
+ 
+
+Spare parts, tools, accessories and materials. 
+
+15.501:2021
+
+ Exploitation and repair documents for armament and military equipment. Main requirements for nomenclature, construction, content, statements, publication and editing.
+
+15.50
+
+2
+
+:202
+
+Х
+
+ Use (operation) of 
+
+armament and military equipment.
+
+15.901:20
+
+2
+
+Х
+
+ 
+
+ 
+
+Metrological support. 
+
+15.902:202Х
+
+ 
+
+Documentation management
+
+.
+
+ 
+
+System of development and launching into manufacture of armament and military equipment (SDLM AME).
+
+ 
+
+15.006:2021
+
+ Configuration management. 
+
+15.007:2021
+
+ The life cycle costs estimation of armament and military equipment.  
+
+15.011:202X
+
+  Scientific and technical expertise, analyses and audits. Main provisions.
+
+Legend
+
+:
+
+Total
+
+/
+
+Implemented
+
+/
+
+Under development
+
+Current state and main tasks of the short-terms activities
+
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327) - PLENARY MEETING, 27 JANUARY 2022
+
+5
+
+UKRAINE-NATO UNCLASSIFIED
+
+Long and short term LCM tasks in UKR strategic documents
+
+Defence Procurement
+
+Organization and Implementation of Defense Planning
+
+Adoption of relevant legislation
+
+LC Costs
+
+UKR LCM Document Framework
+
+LCM 
+
+System
+
+Progress in 2021
+
+the current 
+
+year:
+
+The mutually agreed distribution of powers between all stakeholders of AME LCMS has not been completed and effective mechanisms of coordinated management have not been implemented, methods, parameters of management, procedure for assessing the effect of management, ways of influencing management objects and Feedback have not been defined
+
+Laws of Ukraine “On the Development and Production of Armament, Military and Special Equipment”, “On State Military-Technical Policy” “On State Military-Industrial Policy”, “On State Military-Economic Policy”, “On Public-Private Partnership”
+
+ require implementation in the  National Security System ”, etc.
+
+Analysis of the MoD Personnel Training System within the framework of the LCM E&T PDP Program 
+
+Completion of the development of national standards on LC Risk, LC Cost and Contractual management, 
+
+ILS (based on new ALP-10 & NATO Common LCC Methodology etc.
+
+2022
+
+Adoption of the Conceptions 
+
+To form UKR LCM Document Framework 
+
+Responsibility and coordination
+
+Adoption of the necessary legislation
+
+Qualified Stuff
+
+Current state and main tasks of the short-terms activities
+
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327) - PLENARY MEETING, 27 JANUARY 2022
+
+UKRAINE-NATO UNCLASSIFIED
+
+9
+
+Tasks for 
+
+2022-2023
+
+2022-2023
+
+2022
+
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327)
+
+PLENARY MEETING, 27 JANUARY 2022
+
+UKRAINE-NATO UNCLASSIFIED
+
+Part II:
+
+Key recommendations after the Review  became the bases for the Strategy for the Development 
+
+of the Defence Industry
+
+Ukraine Defence-Industrial Complex Review (2021):
+
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327) - PLENARY MEETING, 27 JANUARY 2022
+
+UKRAINE-NATO UNCLASSIFIED
+
+11
+
+Briefing on Survey Results concerning risks / threats/ challenges that can be identified at all stages of the screening the impact of foreign investments into strategic entities to the national security
+
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327) - PLENARY MEETING, 27 JANUARY 2022
+
+UKRAINE-NATO UNCLASSIFIED
+
+12
+
+Identification of possible risks and threats to national security that may be identified when assessing the impact of foreign investment in economic entities
+
+Development of a foreign investment screening system in Ukraine
+
+Briefing on Survey Results concerning risks / threats/ challenges that can be identified at all stages of the screening the impact of foreign investments into strategic entities to the national security
+
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327) - PLENARY MEETING, 27 JANUARY 2022
+
+UKRAINE-NATO UNCLASSIFIED
+
+13
+
+Example of research findings
+
+. 
+
+Question
+
+: «
+
+Is there a risk to the national security of the state due to foreign investment in strategic economic entities
+
+?»
+
+Briefing on Survey Results concerning risks / threats/ challenges that can be identified at all stages of the screening the impact of foreign investments into strategic entities to the national security
+
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327) - PLENARY MEETING, 27 JANUARY 2022
+
+UKRAINE-NATO UNCLASSIFIED
+
+14
+
+Example of research findings. Question:
+
+ «
+
+Why do countries restrict to foreign direct investment
+
+?
+
+»
+
+Briefing on Survey Results concerning risks / threats/ challenges that can be identified at all stages of the screening the impact of foreign investments into strategic entities to the national security
+
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327) - PLENARY MEETING, 27 JANUARY 2022
+
+UKRAINE-NATO UNCLASSIFIED
+
+15
+
+Examples of research findings:
+
+ 
+
+Question
+
+: «
+
+What are the main risks / threats to the national economy while making foreign investments in strategic entities
+
+?
+
+»
+
+Briefing on Survey Results concerning risks / threats/ challenges that can be identified at all stages of the screening the impact of foreign investments into strategic entities to the national security
+
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327) - PLENARY MEETING, 27 JANUARY 2022
+
+UKRAINE-NATO UNCLASSIFIED
+
+16
+
+Conclusions and the way ahead
+
+all respondents support the idea of improving the legal regulation of foreign investment in economic entities of strategic importance for national security;
+
+illegal actions of some investors can assume a potential threat to national and economic security;
+
+the screening mechanism should not be another barrier to investment, another factor of uncertainty and risk in investing in Ukraine;
+
+enshrined in law admission mechanism for foreign investors to participate in the capital of Ukrainian strategic enterprises will reduce the corruption risks associated with decision-making by individual officials, as well as make the procedure clear, transparent and, most importantly, sustainable;
+
+in this context, further cooperation with NATO partners and nations on the foreign investment valuation system implementation in Ukraine, taking into account their experience in this field, is crucial. 
+
+Thank you for your attention!
+
+LIFE CYCLE MANAGEMENT GROUP (LCMG) (AC/327) - PLENARY MEETING, 27 JANUARY 2022
+
+UKRAINE-NATO UNCLASSIFIED
+
+Kostiantyn Kulahin 
+
+Ukrainian Air Force
+
+k.kulahin@
+
+p
+
+ost.mil
+
+.
+
+gov.ua 
+
+k.kulagin@ukr.net 
+
+-------------------------------------
+
++38(050)301 88 52
+
+Khrystyna Zhyvogliad
+
+Ministry of Economy
+
+zhyvogliad@me
+
+.
+
+gov.ua 
+
+ 
+
+-------------------------------------
+
++38(044)200 45 06
